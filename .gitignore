@@ -1,0 +1,11 @@
+Win64x/
+__history/
+__recovery/
+*.cbproj.local
+~$*
+*.pch
+*.o
+*.d
+*.map
+*.pdb
+*.res
